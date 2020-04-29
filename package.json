@@ -1,0 +1,19 @@
+{
+  "name": "simplenodeserverexample2",
+  "version": "1.0.0",
+  "description": "Simple Node Server Example with the purpose of review for best practice and style.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikolaCekic/simpleNodeServerExample2.git"
+  },
+  "author": "Nikola Cekic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikolaCekic/simpleNodeServerExample2/issues"
+  },
+  "homepage": "https://github.com/NikolaCekic/simpleNodeServerExample2#readme"
+}
